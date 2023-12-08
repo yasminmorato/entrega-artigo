@@ -1,0 +1,79 @@
+.ecologia{
+   border: 2px solid black;
+   
+} 
+   
+
+.divpai{
+   border: 2px solid rgb(3, 0, 0);
+   margin: 10px;
+   background-color:  rgba(8, 103, 75, 0.795);
+   font-size: 15px;
+   color: aliceblue;
+   padding: 15px;
+   text-align: center;
+   max-width: 100%;
+   
+   
+}
+
+.divpai img{
+   border: 2px solid black ;
+   max-width: 30%; 
+   margin: 2px;
+   
+   
+
+}
+
+.divfilho{
+   border: 2px solid black;
+   margin: 10px;
+   padding: 10px;
+   background-color: rgba(8, 103, 75, 0.795);
+   font-size: 15px;
+   color: aliceblue;
+   max-width: 100%;
+   text-align: center;
+   
+   
+   
+   }
+
+.divfilho h2{
+   text-align: center;
+}
+
+   
+
+
+.divfilho img{
+   border: 2px solid black;
+   max-width: 20%;
+   
+}
+
+.divneto{
+   border: 2px solid black;
+   margin: 10px;
+   padding: 10px;
+   background-color: rgba(8, 103, 75, 0.795);
+   font-size: 15px;
+   color: aliceblue;
+   max-width: 100%;
+   text-align: center;
+}
+
+
+  
+.divneto img{
+   border: 2px solid black;
+   max-width: 30%;
+
+}
+
+.divneto h5{
+   font-size: 15px;
+}
+
+
